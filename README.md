@@ -2,7 +2,7 @@
 
 Latex Presentation based on Beamer mtheme for the FME World Tour 2016 in Barcelona. This presentation was made to show a demo developed during August in conterra.
 
-More details in the [PDF](presentation.pdf)
+More details in the [PDF](bike_share.pdf)
 
 ## About Beamer mtheme
 
