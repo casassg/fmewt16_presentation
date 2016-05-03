@@ -2,7 +2,7 @@
 
 Latex Presentation based on Beamer mtheme for the FME World Tour 2016 in Barcelona. This presentation was made to show a demo developed during August in conterra.
 
-More details in the [PDF](bike_share.pdf)
+More details in the [PDF](bike_share.pdf) or in [SpeakerDeck](https://speakerdeck.com/casassg/connecting-apis-for-smart-cities)
 
 ## About Beamer mtheme
 
